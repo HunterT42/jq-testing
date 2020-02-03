@@ -1,1 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+$(document).ready(function(){
+  $("#p1").mouseenter(function(){
+    alert("В следующий раз будьте осторожнее!");
+  });
+});

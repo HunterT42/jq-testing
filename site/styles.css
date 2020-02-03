@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body{
+background-color: black;
+}
+.button{
+  color: gold;
+  border: 1px solid gold;
+  padding: 5px;
+  display: inline-block;
+  margin: 40px 555px;
+}
+
+h1{
+  color: gold;
+  text-align: center;
+  text-shadow: 1px 1px 1px gold;
+}
+
+.logo{
+  width: 900px;
+  height: auto;
+  border: 1px solid gold;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+p{
+  color: gold;
+  text-align: center;
+  font-size: 20px;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  opacity: 0.8;
+}
+
+a:hover{
+opacity: 1;
+}
+
+.main_block{
+width: 1200px;
+height: auto;
+background-color: black;
+border: 1px solid gold;
+margin: 0 auto;
+}
+
+input{
+  background-color: gold;
+  display: block;
+  color: black;
+  margin: 0 auto;
+  padding: 4px;
+}
+#p1{
+  color: gold;
+  font-size: 10px;
+  margin-left: 95%
+}
